@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Switzerland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfhum&label=Profile%20views&color=0e75b6&style=flat" alt="mfhum" /> </p>
-- 🔭 I’m currently working on [CV Portfolio](https://github.com/mfhum/mfhum.github.io)
+- 🔭 I’m currently working on my CV Portfolio (https://github.com/mfhum/mfhum.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
