@@ -10,7 +10,6 @@
 <a href="https://instagram.com/mfhum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mfhum" height="30" width="40" /></a>
 </p>
 
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mfhum&" alt="mfhum" /></p>
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mfhum&show_icons=true&locale=en" alt="mfhum" /></p>
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mfhum&show_icons=true&locale=en&layout=compact" alt="mfhum" /></p>
 
