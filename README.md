@@ -5,7 +5,7 @@
 - 🔭 My CV Portfolio (https://marius.li)</br>
 - 🐝 Also Check out my most recent Website for a Client (https://ustreia-orta.ch)
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mfhum&show_icons=true&locale=en" alt="mfhum" /></p>
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mfhum&show_icons=true&locale=en&layout=compact" alt="mfhum" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mfhum&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true" alt="mfhum" /></p>
+<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mfhum&theme=great-gatsby&hide_border=true" alt="mfhum" /></p>
 
 
