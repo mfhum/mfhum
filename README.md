@@ -5,7 +5,7 @@
 <ul>
 	<li>🔭 My CV Portfolio: <a href="https://marius.li" target="_blank">https://marius.li</a></li>
 	<li>🐝 Also Check out my most recent Website for a Client: <a href="https://ustreia-orta.ch" target="_blank">https://ustreia-orta.ch</a></li>
-	<li>🛠️ What I'm working on right now: <a href="https://github.com/mfhum/RestaurantReservation" target="_blank">ReservationTool</a></li>
+	<li>🛠️ What I'm working on right now: <a href="https://github.com/mfhum/RestaurantReservation" target="_blank">Reservation tool</a></li>
 </ul>
 
 # 📊 GitHub Stats:
